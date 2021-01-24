@@ -1,0 +1,47 @@
+{
+  "vexMod:Fear": {
+    "NAME": "畏怯",
+    "DESCRIPTION": "在你的回合结束时， 消耗 并获得 1 层 易伤 。"
+  },
+  "vexMod:Greed": {
+    "NAME": "贪欲",
+    "DESCRIPTION": " 无法被打出 。 NL 在你的回合结束时，失去 6 金币。"
+  },
+  "vexMod:FullService": {
+    "NAME": "全套服务",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !B! 点 格挡 。 NL 获得 !M! 金币。 NL 给予 !vexMod:SecondMagic! 层 虚弱 。 NL 给予 !vexMod:SecondMagic! 层 易伤 。 NL 给予 !vexMod:SecondMagic! 层 中毒 。 NL 抽 !vexMod:SecondMagic! 张牌。 NL 回复 !vexMod:SecondMagic! 生命。 NL 在下一回合获得 !M! 点 格挡 。 NL 在下一回合获得 1 点 能量  。 NL 在下一回合多抽 1 张牌。 NL  升级 一张手牌。 NL 消耗 。"
+  },
+  "vexMod:Virus": {
+    "NAME": "病毒",
+    "DESCRIPTION": " 无法被打出 。 NL 每当你抽到这张牌，都增加一张其复制品到你的手牌。"
+  },
+  "vexMod:AntiqueFury": {
+    "NAME": "古董之怒",
+    "DESCRIPTION": "造成等于你所拥有的遗物数量3倍的伤害。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "造成等于你所拥有的遗物数量3倍的伤害。 ",
+    "EXTENDED_DESCRIPTION": [
+      " NL （造成 !D! 点伤害。）"
+    ]
+  },
+  "vexMod:StairwayStrike": {
+    "NAME": "高塔打击",
+    "DESCRIPTION": "每完成一个阶段，这张卡的耗能增加1。 NL 造成等于你所在的楼层数的伤害。 NL 消耗 。",
+    "UPGRADE_DESCRIPTION": "每完成一个阶段，这张卡的耗能增加1。 NL 造成等于你所在的楼层数的伤害。",
+    "EXTENDED_DESCRIPTION": [
+      " NL （造成 !D! 点伤害。）"
+    ]
+  },
+  "vexMod:EmailVexCard": {
+    "NAME": "推特打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果这张牌杀死一个不是 爪牙 的敌人，奸诈小bot（@dbotling）会发一条推特公告此事。 NL  消耗 。"
+  },
+  "vexMod:UltimateCard": {
+    "NAME": "终极卡牌",
+    "DESCRIPTION": ""
+  },
+  "vexMod:WellTimedStrike": {
+    "NAME": "适时打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 伤害数值会在0到50之间快速变动。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 伤害数值会在0到50之间缓慢变动。"
+  }
+}

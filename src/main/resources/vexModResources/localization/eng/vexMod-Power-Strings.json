@@ -1,0 +1,37 @@
+{
+  "vexMod:PlayerTimeWarpPower": {
+    "NAME": "Time Warp",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, ends your turn and you gain #b",
+      " #yStrength.",
+      "Whenever you play #b12 cards, ends your turn and you gain #b2 #yStrength."
+    ]
+  },
+  "vexMod:EndOfTurnDamagePower": {
+    "NAME": "Incoming Damage",
+    "DESCRIPTIONS": [
+      "At the end of your turn, take #b",
+      " damage and this wears off."
+    ]
+  },
+  "vexMod:StoneSkinPower": {
+    "NAME": "Snake Skin",
+    "DESCRIPTIONS": [
+      "Prevent #b",
+      " incoming Attack damage."
+    ]
+  },
+  "vexMod:LichPhylacPower": {
+    "NAME": "Lich's Undeath",
+    "DESCRIPTIONS": [
+      "Immune to damage while a Lich's Phylactery is alive."
+    ]
+  },
+  "vexMod:GriftingPower": {
+    "NAME": "Grifting",
+    "DESCRIPTIONS": [
+      "Grifter steals #b1 #yRelic whenever it attacks."
+    ]
+  }
+}

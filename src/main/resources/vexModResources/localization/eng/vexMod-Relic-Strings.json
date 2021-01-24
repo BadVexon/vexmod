@@ -1,0 +1,492 @@
+{
+  "vexMod:ConsolationPrize": {
+    "NAME": "Consolation Prize",
+    "FLAVOR": "Gold oozes from your wounds.",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP in combat, gain that much Gold."
+    ]
+  },
+  "vexMod:GhostlyGear": {
+    "NAME": "Ghostly Gear",
+    "FLAVOR": "The sword and shield are more difficult to see each time you look.",
+    "DESCRIPTIONS": [
+      "Whenever you play a πStrike or Defend, #yExhaust it."
+    ]
+  },
+  "vexMod:CursedCompass": {
+    "NAME": "Cursed Compass",
+    "FLAVOR": "No matter which way you turn, it always points forwards...",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. Future maps contain only #b1 path."
+    ]
+  },
+  "vexMod:MemoryStick": {
+    "NAME": "Memory Locket",
+    "FLAVOR": "If you squeeze it hard enough you can remember the open beta.",
+    "DESCRIPTIONS": [
+      "At the end of your first turn, #yRetain your hand."
+    ]
+  },
+  "vexMod:Cooldron": {
+    "NAME": "Naga Cauldron",
+    "FLAVOR": "Secretly the greatest playmaker ever to be concieved by mankind.",
+    "DESCRIPTIONS": [
+      "All Potions you find are Entropic Brews."
+    ]
+  },
+  "vexMod:InvisibilityCloak": {
+    "NAME": "Invisible Cloak",
+    "FLAVOR": "You're far too modest to \"wear\" this.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, ALL enemies lose #b1 #yStrength."
+    ]
+  },
+  "vexMod:TanglingVine": {
+    "NAME": "Tangling Vine",
+    "FLAVOR": "Don't take this the wrong way.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. At the end of your turn, take #b2 damage."
+    ]
+  },
+  "vexMod:MindDevourer": {
+    "NAME": "Mind Devourer",
+    "FLAVOR": "Mm, shiny! Wait, what was your name again?",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. At the end of combat, remove a random card from your deck."
+    ]
+  },
+  "vexMod:FocusSash": {
+    "NAME": "Focus Sash",
+    "FLAVOR": "It's super effective!",
+    "DESCRIPTIONS": [
+      "When you would die while you have at least #b10 HP, heal to #b1 HP instead."
+    ]
+  },
+  "vexMod:BigBerry": {
+    "NAME": "Big Berry",
+    "FLAVOR": "You had no idea they could get this big.",
+    "DESCRIPTIONS": [
+      "Upon pickup, raise your Max HP by #b30."
+    ]
+  },
+  "vexMod:RetaliationKit": {
+    "NAME": "Retaliation Kit",
+    "FLAVOR": "All you need to disappear in a burst of smoke! Smoke no longer included.",
+    "DESCRIPTIONS": [
+      "The first time your #yBlock is broken each combat, apply #b2 #yWeak to ALL enemies."
+    ]
+  },
+  "vexMod:CardConverter": {
+    "NAME": "Box of Bandaids",
+    "FLAVOR": "Vends only when shown cool techniques.",
+    "DESCRIPTIONS": [
+      "Whenever you add a card into your deck, increase your Max HP by #b1."
+    ]
+  },
+  "vexMod:ScavengeHelm": {
+    "NAME": "Writhing Mask",
+    "FLAVOR": "It squirms on your face uncomfortably.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, gain #b3 #yMalleable."
+    ]
+  },
+  "vexMod:TimeEaterHat": {
+    "NAME": "Snail's Watch",
+    "FLAVOR": "Someone is going to want this back.",
+    "DESCRIPTIONS": [
+      "Whenever you play #b12 cards in a single combat, end your turn and gain #b2 #yStrength."
+    ]
+  },
+  "vexMod:Dragonfruit": {
+    "NAME": "Dragon Fruit",
+    "FLAVOR": "As a connoisseur would say, piquant.",
+    "DESCRIPTIONS": [
+      "Upon pickup, raise your Max HP by #b5. Whenever you draw a #yStatus or #yCurse card, deal #b6 damage to ALL enemies."
+    ]
+  },
+  "vexMod:LichBottle": {
+    "NAME": "Lich's Phylactery",
+    "FLAVOR": "It feels cold in your hands, no matter what you do...",
+    "DESCRIPTIONS": [
+      "#pPrevent #pALL #pHP #ploss. For every #b10 damage prevented, remove a random card from your deck. When your deck has no cards, you #rlose."
+    ]
+  },
+  "vexMod:BarristanHead": {
+    "NAME": "Right Greave",
+    "FLAVOR": "STILL waiting for Left Greave.",
+    "DESCRIPTIONS": [
+      "If you have #b25% or less HP at the start of your turn, gain #b4 #yBlock."
+    ]
+  },
+  "vexMod:HeadHunter": {
+    "NAME": "Skull Hunter",
+    "FLAVOR": "You're bringing this conflict to a head.",
+    "DESCRIPTIONS": [
+      "Elites drop an additional Rare card reward."
+    ]
+  },
+  "vexMod:EndlessSickness": {
+    "NAME": "Endless Sickness",
+    "FLAVOR": "Always multiplying.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. At the start of each combat, shuffle a #rVirus into your draw pile.",
+      "Virus",
+      "Viruses are #rStatus cards that duplicate themselves when drawn."
+    ]
+  },
+  "vexMod:BerryBomb": {
+    "NAME": "Berry Bomb",
+    "FLAVOR": "Tastes explosive!",
+    "DESCRIPTIONS": [
+      "Upon pickup, raise your Max HP by #b6. In #b",
+      " combats, explodes and deals #b100 damage to ALL enemies."
+    ]
+  },
+  "vexMod:PlasmaPancake": {
+    "NAME": "Plasma Pancake",
+    "FLAVOR": "It's literally on fire.",
+    "DESCRIPTIONS": [
+      "Upon pickup, raise your Max HP by #b6. NL At the start of each combat, deal #b11 damage to ALL enemies."
+    ]
+  },
+  "vexMod:RedPlottingStone": {
+    "NAME": "Rose Stone",
+    "FLAVOR": "Watch for thorns.",
+    "DESCRIPTIONS": [
+      "#pGlows #psometime. NL #pRight #pclick while glowing for a #gmassive #greward."
+    ]
+  },
+  "vexMod:DeviousBotling": {
+    "NAME": "Devious Botling",
+    "FLAVOR": "A tiny little mini-bot whose prime directive is to mess with people.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. Torments you on every 3rd turn.",
+      "Enjoy the Weak, ",
+      "Hoho, have some Weak, ",
+      "Taste weakness, ",
+      "You look pretty Weak, ",
+      "Have some Frail, ",
+      "Hehe, enjoy the Frail, ",
+      "Heh, taste Frail, ",
+      "Looking rather Frail, ",
+      "I'll be taking that gold, ",
+      "Thanks for the gold, ",
+      "Heh, my gold now, ",
+      "I'll enjoy the gold, ",
+      "I hope you didn't need that ",
+      "I'll be taking that ",
+      "Thanks for the ",
+      "Yoink! Got your ",
+      "Let's tone down that ",
+      "Couldn't help but nerf ",
+      "Ha, weakened your ",
+      "I'm gonna rebalance ",
+      "I don't feel like giving you Energy this turn, ",
+      "Not sharing my Energy this turn, ",
+      "Hope you didn't need my Energy this turn, ",
+      "No Energy for you this turn, ",
+      "Dodge this, ",
+      "Blasters incoming, ",
+      "Taste firepower, ",
+      "Here comes my chip damage, ",
+      "Want a little help, ",
+      "Care for some Block, ",
+      "Need some help, ",
+      "Require some support, ",
+      "Want some assistance, ",
+      "moron!",
+      "loser!",
+      "dork!",
+      "nerd!",
+      "fool!",
+      "curmudgeon!",
+      "pleb!",
+      "noob!",
+      "newbie!",
+      "tool!",
+      "buffoon!",
+      "cretin!",
+      "dipstick!",
+      "wanker!",
+      "weakling!",
+      "bonehead!",
+      "dummy!",
+      "imbecile!",
+      "pinhead!",
+      "troglodyte!",
+      "twit!",
+      "amateur!",
+      "bozo!",
+      "clown!",
+      "coward!",
+      "dimwit!",
+      "dolt!",
+      "dummy!",
+      "dunce!",
+      "goofball!",
+      "ignoramus!",
+      "idiot!",
+      "lowlife!",
+      "nerd!",
+      "dweeb!",
+      "wacko!",
+      "bilge rat!",
+      "sucker!",
+      "numbskull!",
+      "Meet my Gremlin friend!",
+      "I cast Summon Gremlin!",
+      "Thrash this loser for me, Gremlin.",
+      "Gain [E] at the start of your turn. Torments you every 3rd turn and in other ways.",
+      "Nice try. LOL.",
+      "You didn't have a chance.",
+      "LOL, noob.",
+      "When you try so hard and you don't succeed...",
+      "Press F.",
+      "Wrecked.",
+      "Thrashed.",
+      "Deee-stroyed.",
+      "Pathetic!",
+      "Next time, try thinking?",
+      "That must have hurt.",
+      "That run was weak.",
+      "Better luck next time.",
+      "LOL, pleb.",
+      "Hah, nerd.",
+      "Git gud.",
+      "You tried so hard and got so far NL but in the end, NL it didn't even matter...",
+      "Good game, well played.",
+      "GG WP",
+      "Get rekt scrub.",
+      "U ded.",
+      "Say hi to Neow for me!",
+      "See you next time!",
+      "That deck was weak.",
+      "Get that weak deck outta here!",
+      "LOL. Get wrecked.",
+      "Try not to die next time.",
+      "Roses are red, violets are blue. NL A loser is dead, that loser is you.",
+      "This card reward is better off without ",
+      "I'll be taking that nice ",
+      "Looks like your deck will go without ",
+      "Mmm, hope you didn't want "
+    ]
+  },
+  "vexMod:WellWornAnklet": {
+    "NAME": "Right Greave",
+    "FLAVOR": "Forever waiting to be reunited with Left Greave.",
+    "DESCRIPTIONS": [
+      "At the start of turns #b3 and #b7, gain #b7 #yBlock."
+    ]
+  },
+  "vexMod:ImprovementManual": {
+    "NAME": "Improvement Manual",
+    "FLAVOR": "Ahh, so THAT's how you make a card Innate!",
+    "DESCRIPTIONS": [
+      "Upon pickup, #yUpgrade #b5 cards.",
+      "Upgrading cards...!"
+    ]
+  },
+  "vexMod:PaidLearning": {
+    "NAME": "Paid Education",
+    "FLAVOR": "That was just the down payment.",
+    "DESCRIPTIONS": [
+      "Upon pickup, #yUpgrade #b2 cards.",
+      "Upgrading cards...!"
+    ]
+  },
+  "vexMod:GildedClover": {
+    "NAME": "Gilded Clover",
+    "FLAVOR": "Super-duper rare!",
+    "DESCRIPTIONS": [
+      "ALL future cards you find are #yRare."
+    ]
+  },
+  "vexMod:FluxCapacitor": {
+    "NAME": "Clock Rock",
+    "FLAVOR": "Tick tock goes the clock rock.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. You have #b600 seconds to live. Gain #b60 seconds after each combat."
+    ]
+  },
+  "vexMod:MegatonBomb": {
+    "NAME": "Superbombomb",
+    "FLAVOR": "A superweapon beyond any technology. Who made this...?",
+    "DESCRIPTIONS": [
+      "At the end of your turn, #rlose #b1 HP from #gradiation #gpoisoning. NL #pRight #pclick: #rDestroy #rthis #rrelic #rand #gOBLITERATE #rall #renemies."
+    ]
+  },
+  "vexMod:NewClearReactor": {
+    "NAME": "New, Clear Reactor",
+    "FLAVOR": "Totally safe! Good for the environment! Fosters mutations!",
+    "DESCRIPTIONS": [
+      "Energy is conserved between turns and combats. You no longer gain Energy each turn. Set your energy to #b100 upon pickup and at the start of each Act."
+    ]
+  },
+  "vexMod:RockOfEvil": {
+    "NAME": "Horrorstone",
+    "FLAVOR": "Holding it fills you with terror. You drop it, but it writhes back into your pocket.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. Upon pickup, obtain #b666 #yGold and a #rBlight."
+    ]
+  },
+  "vexMod:StarEater": {
+    "NAME": "Star Eater",
+    "FLAVOR": "One by one, the stars in the sky wink out.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. At the end of your turn, decrease the #yStellar #yPhase by #b2.",
+      "~mmm~ ~stars~"
+    ]
+  },
+  "vexMod:Spotlight": {
+    "NAME": "Spotlight",
+    "FLAVOR": "Light 'em up!",
+    "DESCRIPTIONS": [
+      "At the start of each combat, apply #b3 #yStarlit to ALL enemies."
+    ]
+  },
+  "vexMod:Trinoculars": {
+    "NAME": "Trinoculars",
+    "FLAVOR": "Lets you see three times as many stars!",
+    "DESCRIPTIONS": [
+      "The maximum #yStellar #yPhase is now #b63."
+    ]
+  },
+  "vexMod:FakeStar": {
+    "NAME": "Fake Star",
+    "FLAVOR": "But if you squint it looks pretty real!",
+    "DESCRIPTIONS": [
+      "The first #yStellar card you play each combat will be active."
+    ]
+  },
+  "vexMod:GravityRainbow": {
+    "NAME": "Gravitational Rainbow",
+    "FLAVOR": "\"But rainbows aren't affected by gravity!\" you say. Well, pah!",
+    "DESCRIPTIONS": [
+      "At the start of every odd-numbered turn, put the bottom card of your draw pile into your hand."
+    ]
+  },
+  "vexMod:MusicMaker": {
+    "NAME": "Pipes of Chaos",
+    "FLAVOR": "Crafted by an evil god, you shudder to play it.",
+    "DESCRIPTIONS": [
+      "Replaces ",
+      ".[] NL Draw #b2 less cards each turn. Whenever you play a card, #ybard:Queue a [WildNote] [REMOVE_SPACE]."
+    ]
+  },
+  "vexMod:BottledTune": {
+    "NAME": "Bottled Tune",
+    "FLAVOR": "You crack the lid and hear a faint sound.",
+    "DESCRIPTIONS": [
+      "Upon pickup, choose a #ybard:Note. At the start of each combat, #ybard:Queue that #ybard:Note.",
+      "At the start of each combat, #ybard:Queue a ",
+      " [REMOVE_SPACE]."
+    ]
+  },
+  "vexMod:SingingFlower": {
+    "NAME": "Singing Flower",
+    "FLAVOR": "It's, like, in tune with the planet's energy, dude!",
+    "DESCRIPTIONS": [
+      "Every #b3 turns, #ybard:Queue a [BuffNote] [REMOVE_SPACE]."
+    ]
+  },
+  "vexMod:AutoTuner": {
+    "NAME": "Auto Tuner",
+    "FLAVOR": "Sure, it sounds strange, but it's technically tuned!",
+    "DESCRIPTIONS": [
+      "At the start of your turn, perform a random #ybard:Melody."
+    ]
+  },
+  "vexMod:Warpstrument": {
+    "NAME": "Warped Instrument",
+    "FLAVOR": "This twisted bunch of tubes never quite sounds the same.",
+    "DESCRIPTIONS": [
+      "Every #b10th #ybard:Note you #ybard:Queue is a [WildNote] [REMOVE_SPACE]."
+    ]
+  },
+  "vexMod:AudienceDoll": {
+    "NAME": "Audience Doll",
+    "FLAVOR": "Always there to listen and offer support!",
+    "DESCRIPTIONS": [
+      "Whenever you perform a #ybard:Melody, draw #b1 card."
+    ]
+  },
+  "vexMod:DeadRequiem": {
+    "NAME": "Dead Requiem",
+    "FLAVOR": "Your toughest sheets.",
+    "DESCRIPTIONS": [
+      "Whenever you perform a #ybard:Melody, #ybard:Queue a random #ybard:Note."
+    ]
+  },
+  "vexMod:SolarSystemDiorama": {
+    "NAME": "Galaxy Diorama",
+    "FLAVOR": "Wholly innacurate.",
+    "DESCRIPTIONS": [
+      "The additional effects of your #ySolar and #yLunar cards are always active."
+    ]
+  },
+  "vexMod:CleansingRadio": {
+    "NAME": "Anger Radio",
+    "FLAVOR": "Plays frustrating music.",
+    "DESCRIPTIONS": [
+      "Every time you #ybard:Queue #b3 of the same #ybard:Note in a single turn, deal #b5 damage to ALL enemies."
+    ]
+  },
+  "vexMod:ThrowingStar": {
+    "NAME": "Throwing Star",
+    "FLAVOR": "Unorthodox use for the stars, but it's OK.",
+    "DESCRIPTIONS": [
+      "Every time you play or Exhaust #b3 #yStars in a single turn, gain #b1 #yStrength."
+    ]
+  },
+  "vexMod:RainbowShades": {
+    "NAME": "Rainbow Shades",
+    "FLAVOR": "Lookin' to the sky in style.",
+    "DESCRIPTIONS": [
+      "The first time you draw an #yEthereal card each combat, put a copy of it on top of your draw pile."
+    ]
+  },
+  "vexMod:PreRecordedMusic": {
+    "NAME": "Mediocre Mixtape",
+    "FLAVOR": "Sounds familiar.",
+    "DESCRIPTIONS": [
+      "At the start of each combat, perform a random #ybard:Melody."
+    ]
+  },
+  "vexMod:ElectroStars": {
+    "NAME": "Cyborg Telescope",
+    "FLAVOR": "You realize now that every electric volt is a tiny star too.",
+    "DESCRIPTIONS": [
+      "Start each combat with #b3 Orb slots. Whenever you play a #yStar, #yChannel #b1 #yLightning."
+    ]
+  },
+  "vexMod:FutureSight": {
+    "NAME": "Sight of Future Skies",
+    "FLAVOR": "You see it all laid out. One day the sky shall burn away.",
+    "DESCRIPTIONS": [
+      "Replaces ",
+      ".[] NL Whenever you play a card, put it on the bottom of your draw pile."
+    ]
+  },
+  "vexMod:MiniStar": {
+    "NAME": "Pet Star",
+    "FLAVOR": "Feed with hydrogen and helium daily.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, increment the #yStellar #yPhase."
+    ]
+  },
+  "vexMod:Spyglass": {
+    "NAME": "Sextant",
+    "FLAVOR": "Useful for sniping.",
+    "DESCRIPTIONS": [
+      "You can see the contents of #y? rooms."
+    ]
+  },
+  "vexMod:MysteryBossChallenge": {
+    "NAME": "Mystery Boss Challenge",
+    "FLAVOR": "It's raw!",
+    "DESCRIPTIONS": [
+      "Upon pickup, choose Energy or Non-Energy and obtain a random boss relic of that type.",
+      "Choose what kind of boss relic you want."
+    ]
+  }
+}

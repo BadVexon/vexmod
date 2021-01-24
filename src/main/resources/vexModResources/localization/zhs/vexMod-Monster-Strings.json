@@ -1,0 +1,111 @@
+{
+  "vexMod:InfectionBeast": {
+    "NAME": "感染兽",
+    "MOVES": [
+      "深层疫病"
+    ],
+    "DIALOG": [
+      "这个强大的负面效果…… NL 是 ~永久的~ ~。~ ~。~ ~。~"
+    ]
+  },
+  "vexMod:DaggerThrower": {
+    "NAME": "刃之法老",
+    "MOVES": [
+      "投掷匕首！"
+    ],
+    "DIALOG": [
+      "我是不灭的…… NL 而你不是！"
+    ]
+  },
+  "vexMod:LichLord": {
+    "NAME": "地底城女巫妖",
+    "MOVES": [
+      "枯渴之惧"
+    ],
+    "DIALOG": [
+      "我同时掌控着 NL 生与死的力量！"
+    ]
+  },
+  "vexMod:LichPhylac": {
+    "NAME": "巫妖命匣",
+    "MOVES": [
+
+    ],
+    "DIALOG": [
+
+    ]
+  },
+  "vexMod:Grifter": {
+    "NAME": "窃贼",
+    "MOVES": [
+      "盗行抽打"
+    ],
+    "DIALOG": [
+      "真是个傻子！ NL 居然想挑战高塔里最强的窃贼！",
+      "再见啦，旅行者。 NL 顺便，谢谢你的战利品！"
+    ]
+  },
+  "vexMod:Combatant": {
+    "NAME": "机械战士",
+    "MOVES": [
+      "机器冲刺"
+    ],
+    "DIALOG": [
+      "战斗功能激活！"
+    ]
+  },
+  "vexMod:BombBelcher": {
+    "NAME": "吐弹人",
+    "MOVES": [
+      "喷吐炸弹"
+    ],
+    "DIALOG": [
+      "~嗝~"
+    ]
+  },
+  "vexMod:MiniBotBeamer": {
+    "NAME": "微型激光机器人",
+    "MOVES": [
+      "MOVE1???"
+    ],
+    "DIALOG": [
+      "DIALOG1???"
+    ]
+  },
+  "vexMod:MiniBotBuilderBuilder": {
+    "NAME": "微型召唤机器人",
+    "MOVES": [
+      "MOVE1???"
+    ],
+    "DIALOG": [
+      "DIALOG1???"
+    ]
+  },
+  "vexMod:MiniBotDebuff": {
+    "NAME": "微型增益机器人",
+    "MOVES": [
+      "MOVE1???"
+    ],
+    "DIALOG": [
+      "DIALOG1???"
+    ]
+  },
+  "vexMod:MiniBotRepair": {
+    "NAME": "微型修补机器人",
+    "MOVES": [
+      "MOVE1???"
+    ],
+    "DIALOG": [
+      "DIALOG1???"
+    ]
+  },
+  "vexMod:MiniBotVirus": {
+    "NAME": "微型虚空机器人",
+    "MOVES": [
+      "MOVE1???"
+    ],
+    "DIALOG": [
+      "DIALOG1???"
+    ]
+  }
+}

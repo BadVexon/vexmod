@@ -1,0 +1,13 @@
+{
+  "modid": "vexMod",
+  "name": "vexMod",
+  "author_list": ["DarkVexon"],
+  "description": "A major content mod.",
+  "version": "2.0.0",
+  "sts_version": "${SlayTheSpire.version}",
+  "mts_version": "${ModTheSpire.version}",
+  "credits": "Slay the Spire Discord: Ideas, assistance, other help. Spleeninator, Lyman: Relic and enemy art. Raz: VFX \"inspiration\". Rincewind: ZHS translation. Saetaia: Art and ideas!!!",
+  "dependencies": ["basemod", "stslib"],
+  "update_json": ""
+}
+

@@ -1,0 +1,6 @@
+{
+  "vexMod:noRelicMode": {
+    "NAME": "Low-Relics Mode",
+    "DESCRIPTION": "Start with 6 random Relics, but you can't obtain more non-Boss, non-Event relics."
+  }
+}
